@@ -4,12 +4,6 @@ customtkinter==5.2.2
 pillow==11.2.1
 tk==0.1.0
 
------	INSTALL FONT	-----
-FunnelDisplay 
-
-[ google fonts link: https://fonts.google.com/specimen/Funnel+Display
-	( installation file also provided in the `font` folder )	]
-
 ----	INTERFACE MAY DIFFER 
 	across different OS 	-----
 
