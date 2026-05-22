@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Beautiful README Header
+## 🚀 README
 
 <div align="center">
   <img src="icons/appIcon.png" alt="Identrix Logo" width="120" height="120" style="border-radius: 20%;" onerror="this.style.display='none'"/>
