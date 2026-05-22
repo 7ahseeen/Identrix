@@ -46,9 +46,8 @@ To quickly understand the application's runtime behavior, input handling, and al
 #### 🔹 System Deployment Video Walkthrough
 A complete operational recording demonstrating FASTA data ingestion, real-time input error checking, and custom amino acid substitution configuration updates.
 
-<video src="./Demo/Recording.mp4" width="100%" controls>
-  <p>Your markdown viewer or browser does not support embedded HTML5 video playbacks. You can manually access the file directly at <code>./Demo/Recording.mp4</code>.</p>
-</video>
+
+https://github.com/user-attachments/assets/2201e825-8dfe-42d9-b64b-04dac16f883a
 
 
 #### 🔹 Application Production Poster & Layout Map
