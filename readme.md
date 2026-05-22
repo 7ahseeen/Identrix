@@ -48,7 +48,9 @@ To quickly understand the application's runtime behavior, input handling, and al
 #### 🔹 System Deployment Video Walkthrough
 A complete operational recording demonstrating FASTA data ingestion, real-time input error checking, and custom amino acid substitution configuration updates.
 
-> 🎥 **Local Video File:** `[Launch Screen Video Demo](./Demo/Recording.mp4)`
+<video src="./Demo/Recording.mp4" width="100%" controls>
+  <p>Your markdown viewer or browser does not support embedded HTML5 video playbacks. You can manually access the file directly at <code>./Demo/Recording.mp4</code>.</p>
+</video>
 
 
 #### 🔹 Application Production Poster & Layout Map
@@ -88,7 +90,7 @@ Identrix leverages a carefully selected, modern tech stack designed for efficien
 | **Tkinter Core** | Window Canvas & Event Loop | Native Standard | Controls the underlying application event loop, window focus states, and the multi-tier top-level menu bar hierarchies with minimal resource overhead. |
 | **Pillow (PIL)** | Visual Asset Engineering | `11.2.1` | Decodes, rescales, and streams cross-platform graphic interface asset paths (`appIcon.png`, `devIcon.png`) without causing memory leaks or visual asset distortion. |
 
-### Graphical Desktop Interface Layer
+### 🎨 Graphical Desktop Interface Architecture
 
 The visual architecture of Identrix is built on a clean, responsive graphical canvas that balances modern UI aesthetics with a resource-light desktop runtime footprint. By subclassing or extending `customtkinter` controls, the interface implements dynamic structural styling, multi-window instantiation safety, and platform-independent window configurations.
 
