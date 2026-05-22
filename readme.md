@@ -39,8 +39,6 @@ Researchers, lab technicians, and bioinformatics students frequently need to qui
 
 This operational guide provides a step-by-step walkthrough to help researchers get started with Identrix, demonstrating everything from initial inputs to final result export.
 
----
-
 ### 📺 Video Demonstration & Visual Reference
 
 To quickly understand the application's runtime behavior, input handling, and alignment workflows, view the media assets below located within the local production environment directory:
